@@ -25,5 +25,5 @@ Swift与OC的混合开发DEMO
         这样在Swift的文件直接使用就可以了，不用在Swift中再次导入OC头文件。
     
  
-    关于Swift与OC语言的配置问题：
+ 3，  关于Swift与OC语言的配置问题：
     在工程的Build Settings中  Packaging模块把 Defines Module 设置为 YES

@@ -21,6 +21,7 @@
 		3EF3E8CF1EDD756E0034E18F /* SwiftDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EF3E8CD1EDD756E0034E18F /* SwiftDetailViewController.xib */; };
 		3EF3E8D31EDD76830034E18F /* OCTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EF3E8D11EDD76830034E18F /* OCTableViewCell.m */; };
 		3EF3E8D41EDD76830034E18F /* OCTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EF3E8D21EDD76830034E18F /* OCTableViewCell.xib */; };
+		3EF3E8D61EDD823E0034E18F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3EF3E8D51EDD823E0034E18F /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		3EF3E8D01EDD76830034E18F /* OCTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCTableViewCell.h; sourceTree = "<group>"; };
 		3EF3E8D11EDD76830034E18F /* OCTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCTableViewCell.m; sourceTree = "<group>"; };
 		3EF3E8D21EDD76830034E18F /* OCTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OCTableViewCell.xib; sourceTree = "<group>"; };
+		3EF3E8D51EDD823E0034E18F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 		3EA23FE91EDD1DF800F6B9BC /* Swift与OC混合开发DEMO */ = {
 			isa = PBXGroup;
 			children = (
+				3EF3E8D51EDD823E0034E18F /* README.md */,
 				3EA23FED1EDD1DF800F6B9BC /* AppDelegate.h */,
 				3EA23FEE1EDD1DF800F6B9BC /* AppDelegate.m */,
 				3EA23FF01EDD1DF800F6B9BC /* ViewController.h */,
@@ -305,6 +308,7 @@
 				3EA23FF21EDD1DF800F6B9BC /* ViewController.m in Sources */,
 				3EF3E8CA1EDD6D3F0034E18F /* SwiftBasicTableViewCell.swift in Sources */,
 				3EA23FEF1EDD1DF800F6B9BC /* AppDelegate.m in Sources */,
+				3EF3E8D61EDD823E0034E18F /* README.md in Sources */,
 				3EA23FEC1EDD1DF800F6B9BC /* main.m in Sources */,
 				3EF3E8D31EDD76830034E18F /* OCTableViewCell.m in Sources */,
 				3EF3E8CE1EDD756E0034E18F /* SwiftDetailViewController.swift in Sources */,
